@@ -12,7 +12,7 @@ Galutinis pažymys preliminariai susideda iš tokių dalių:
             
 <ul>
   <li>Hefferon J. <i><a href = "http://joshua.smcvt.edu/linearalgebra/" target = "_blank">Linear Algebra</a>.</i> [1,1 Mb]</li>
-  <li>Beezer R.A. <i><a href = "http://linear.ups.edu/download/fcla-electric-2.00.pdf" target = "_blank">A First Course in Linear Algebra</a>.</i> [7,5 Mb]</li>
+  <li>Beezer R.A. <i><a href = "http://linear.ups.edu/download/fcla-3.50-tablet.pdf" target = "_blank">A First Course in Linear Algebra</a>.</i> [2,4 Mb]</li>
 </ul>
 
 ### Papildoma literatūra
@@ -22,7 +22,7 @@ Galutinis pažymys preliminariai susideda iš tokių dalių:
   <li>Solomon B. <i>Linear Algebra. Geometry and Transformation</i>.</li>
   <li>Robert A.M. <i>Linear Algebra. Examples and Applications</i>.</li>
   <li>Savov I. <i>No Bullshit Guide to Linear Algebra</i>.</li>
-  <li>Hartman G. <i><a href = "http://www.vmi.edu/media/content-assets/documents/academics/appliedmath/Fundamentals-of-Matrix-   Algebra-3rd-Edition.pdf" target = "_blank">Fundamentals of Matrix Algebra</a></i>. [1,3 Mb]</li>            
+  <li>Hartman G. <i><a href = "https://www.vmi.edu/media/content-assets/documents/academics/appliedmath/Fundamentals-of-Matrix-Algebra-3rd-Edition.pdf" target = "_blank">Fundamentals of Matrix Algebra</a></i>. [1,3 Mb]</li>            
 </ul>
 
 ### Straipsniai ir kiti skaitiniai
