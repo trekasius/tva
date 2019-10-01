@@ -34,4 +34,12 @@ Galutinis pažymys preliminariai susideda iš tokių dalių:
   </li>
   Cayley A. <i><a href = "https://ia600701.us.archive.org/20/items/philtrans05474612/05474612.pdf">A Memoir on the Theory of Matrices</a>.</i>
 </ul>
-            
+
+### Naudingos nuorodos
+
+<ul>
+  <li>
+  <a href = "https://www.foundalis.com/lan/hw/grkhandw.htm">Kaip rašyti graikiškas raides</a>?
+  </li>
+</ul>
+          
