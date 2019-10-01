@@ -38,8 +38,7 @@ Galutinis pažymys preliminariai susideda iš tokių dalių:
 ### Naudingos nuorodos
 
 <ul>
-  <li>
-  <a href = "https://www.foundalis.com/lan/hw/grkhandw.htm">Kaip rašyti graikiškas raides</a>?
-  </li>
+  <li><a href = "https://www.foundalis.com/lan/hw/grkhandw.htm">Kaip rašyti graikiškas raides</a>?</li>
+  <li><a href = "https://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are/">Kas iš tikro yra matrica</a>?</li>
 </ul>
           
