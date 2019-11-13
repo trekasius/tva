@@ -40,6 +40,7 @@ Galutinis pažymys preliminariai susideda iš tokių dalių:
 <ul>
   <li><a href = "https://www.foundalis.com/lan/hw/grkhandw.htm">Kaip rašyti graikiškas raides</a>?</li>
   <li><a href = "https://nolaymanleftbehind.wordpress.com/2011/07/10/linear-algebra-what-matrices-actually-are/">Kas iš tikro yra matrica</a>?</li>
-  <li><a href = "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a>? Trumpos video paskaitos apie pagrindines tiesinės algebros idėjas ir jų geometrinę interpretaciją. Highly recommended!</li>
+  <li><a href = "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a>. Trumpos video paskaitos apie pagrindines tiesinės algebros idėjas ir jų geometrinę interpretaciją. Highly recommended!</li>
+  <li><a href = "https://www.youtube.com/watch?v=rowWM-MijXU">The Applications of Matrices</a>. Video paskaita apie kai kuriuos matricų ir bendrai tiesinės algebros taikymus.</li>
 </ul>
           
